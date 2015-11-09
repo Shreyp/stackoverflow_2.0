@@ -18,6 +18,20 @@ by Darryl Mendonez, David Stichter, Sean Conaty, and Shreyans Patel */
 
 /* Shreyans Patel's CSS styles: */
 
-.navbar-brand {
-  margin-left: 20px;
+.navbar {
+	border-radius: 0px !important;
+}
+
+.form-control {
+	border-radius: 0px;
+	padding-right:50px;
+	height: 30px;
+}
+
+.dropdown-menu {
+	width: 200px;
+}
+
+.description {
+	padding-left: 20px;
 }
